@@ -1,0 +1,9 @@
+{
+  "name": "exo-fs-api",
+  "version": "1.0.0",
+  "description": "exercises for fs api",
+  "main": "index.js",
+  "repository": "git@github.com:alector/exo-fs-api.git",
+  "author": "panos",
+  "license": "MIT"
+}
