@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "git@github.com:alector/exo-fs-api.git",
   "author": "panos",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "word-counter-api": "^1.3.1"
+  }
 }
